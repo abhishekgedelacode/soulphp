@@ -629,7 +629,7 @@
                 </div>
               </div>
             </div>
-            <div id="final" class="container p-0 m-2 show fade text-center">
+            <div id="final" class="container p-0 m-2 mx-auto show fade text-center">
               <div class="card">
                 <div class="card-header bg-danger text-white">
                   <h1 id="soulid" class="text-capitalize font-weight-bold"></h1>
