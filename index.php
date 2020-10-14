@@ -663,7 +663,7 @@
           <span class="text-warning">|</span>
           <span>
             <span class="text-success"> EMail: </span>
-            gabhishekjij143@gmail.com</span
+            gabhishekji143@gmail.com</span
           >
         </div>
       </footer>
