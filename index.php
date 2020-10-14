@@ -42,22 +42,27 @@
     <script>
       const name = prompt("what is your name ? ", "Guest");
     </script>
-    <div class="container-fluid p-0">
-      <header class="container-fluid p-0">
+    <div class="container-fluid p-0 col-sm-12">
+      <header class="container-fluid p-0 bg-dark">
         <h1
           id="headding"
           class="container-fluid text-capitalize font-weight-bold text-center text-white bg-dark p-2"
         >
           what is your soul element ?
         </h1>
+        <p class="text-center p-0 m-0">
+          <small class="text-info text-center font-weight-bold p-0 m-0"
+            >AbhiShekGedelaCode</small
+          >
+        </p>
       </header>
-      <main class="container p-4 px-5 col-sm-12 text-center">
+      <main class="container-fluid p-4 px-5 col-sm-12 text-center">
         <p class="alert alert-info">
           This is a great chance to know your soul element. We will ask you a
           few questions on regular basis to get an idea about your soul element.
         </p>
         <form action="">
-          <div class="container p-2 text-center">
+          <div class="container-fluid col-sm-12 p-2 text-center">
             <div class="card m-3 mx-5">
               <div class="card-header text-left pl-5">
                 Q1. What three best words describe your personality ?
@@ -656,16 +661,7 @@
             document.write(d.getFullYear());
           </script>
         </div>
-        <div class="container p-1 text-center text-info font-weight-bold">
-          <span
-            ><span class="text-success">Admin:</span> AbhiShekGedelaCode
-          </span>
-          <span class="text-warning">|</span>
-          <span>
-            <span class="text-success"> EMail: </span>
-            gabhishekji143@gmail.com</span
-          >
-        </div>
+        
       </footer>
     </div>
 
